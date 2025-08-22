@@ -1,8 +1,8 @@
 import React from "react";
-import CompanionCard from "../components/CompanionCard";
+import CompanionCard from '../components/CompanionCard';
 import CompanionsList from "@/components/CompanionsList";
 import CTA from "@/components/CTA";
-import { subjects } from '../constants/index';
+import { recentSessions, subjects } from '../constants/index';
 
 const Page = () => {
   return (
@@ -35,7 +35,11 @@ const Page = () => {
         />
           </section>
       <section className="home-section">
-        <CompanionsList />
+        <CompanionsList
+        title='Recently completed sessions'
+        Companions={recentSessions}
+        className='w-2/3 max-lg:w-full'
+        />
         <CTA />
       </section>
     </main>
