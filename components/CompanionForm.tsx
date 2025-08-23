@@ -56,7 +56,7 @@ const CompanionForm = () => {
       <form onSubmit={form.handleSubmit(onSubmit)} className="space-y-8">
         <FormField
           control={form.control}
-          name="name"
+          name="name"   
           render={({ field }) => (
             <FormItem>
               <FormLabel>Companion name</FormLabel>
