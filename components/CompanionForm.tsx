@@ -105,7 +105,7 @@ const CompanionForm = () => {
         />{" "}
         <FormField
           control={form.control}
-          name="name"
+          name="topic"
           render={({ field }) => (
             <FormItem>
               <FormLabel>What should the Companion help with?</FormLabel>
@@ -141,7 +141,7 @@ const CompanionForm = () => {
                   </SelectContent>
                 </Select>
               </FormControl>
-              <FormMessage />
+
             </FormItem>
           )}
         />{" "}
@@ -166,10 +166,9 @@ const CompanionForm = () => {
                   </SelectContent>
                 </Select>
               </FormControl>
-              <FormMessage />
             </FormItem>
           )}
-        />{" "}
+        />
 
 <FormField
   control={form.control}
@@ -190,8 +189,7 @@ const CompanionForm = () => {
     </FormItem>
   )}
 />
-
-        <Button type="submit">Submit</Button>
+        <Button type="submit" className="w-full cursor-pointer">Submit</Button>
       </form>
     </Form>
   );
