@@ -1,11 +1,11 @@
 import React from 'react'
-
-const CompanionComponent = () => {
+import { getSubjectColor } from '@/lib/utils'
+const CompanionComponent = ({companionId , subject , topic,name,userName,userImage,style,voice }:CompanionComponentProps) => {
   return (
     <section className='flex flex-col h-[70vh]'>
         <section className='flex gap-8 max-sm:flex-col'>
             <div className='companion-section'>
-                <div></div>
+                <div className='companion-avatar' style={{backgroundColor:getSubjectColor(subject)}} ></div>
             </div>
         </section>
        
