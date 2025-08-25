@@ -12,7 +12,7 @@
 ## 🌐 Live Demo
 
 Check out the deployed version on **Vercel**:  
-[![Visit Vercel](jsm-saas-etwx-ps6q811f6-natan-muletas-projects.vercel.app)
+[!Visit Vercel](jsm-saas-etwx-ps6q811f6-natan-muletas-projects.vercel.app)
 
 ---
 
