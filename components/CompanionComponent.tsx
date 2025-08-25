@@ -2,9 +2,9 @@ import React from 'react'
 
 const CompanionComponent = () => {
   return (
-    <div>
-
-    </div>
+    <section>
+       
+    </section>
   )
 }
 
