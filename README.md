@@ -38,7 +38,17 @@ Check out the deployed version on **Vercel**:
 
 ---
 
-
+Here you can showcase your website. Add your screenshots inside the /screenshots folder and reference them here:
+<!-- Screenshots Section -->
+<h2>🖼️ Screenshots</h2>
+<img width="1920" height="1080" alt="Screenshot 669" src="https://github.com/user-attachments/assets/994c6391-361c-4f21-ba73-d86a362503e9" />
+<img width="1920" height="1080" alt="Screenshot 670" src="https://github.com/user-attachments/assets/84b6db59-6944-4267-bad6-12f362fe02da" />
+<img width="1920" height="1080" alt="Screenshot 671" src="https://github.com/user-attachments/assets/8ad5bbef-20ec-41a8-8c9f-4142bd21838e" />
+<img width="1920" height="1080" alt="Screenshot 672" src="https://github.com/user-attachments/assets/56247952-bc3f-49ee-bc26-87817198e682" />
+<img width="1920" height="1080" alt="Screenshot 673" src="https://github.com/user-attachments/assets/9f6a4e71-6a77-4d09-9bea-4d0f916f0c68" />
+<img width="1920" height="1080" alt="Screenshot 674" src="https://github.com/user-attachments/assets/c0f3385a-6cc2-4e9c-9c23-4ca96b03d195" />
+<img width="1920" height="1080" alt="Screenshot 675" src="https://github.com/user-attachments/assets/09c00d79-0e4b-44f2-afbc-df5e435caf9c" />
+<img width="1920" height="1080" alt="Screenshot 676" src="https://github.com/user-attachments/assets/bb53f369-5a17-4a7c-a728-88eb617643d5" />
 
 ## ⚡ Getting Started
 
@@ -61,21 +71,6 @@ npm run dev
 yarn dev
 
 # Open http://localhost:3000
-🖼️ Screenshots
-
-Here you can showcase your website. Add your screenshots inside the /screenshots folder and reference them here:
-<!-- Screenshots Section -->
-<h2>🖼️ Screenshots</h2>
-
-<img width="1920" height="1080" alt="Screenshot 669" src="https://github.com/user-attachments/assets/994c6391-361c-4f21-ba73-d86a362503e9" />
-<img width="1920" height="1080" alt="Screenshot 670" src="https://github.com/user-attachments/assets/84b6db59-6944-4267-bad6-12f362fe02da" />
-<img width="1920" height="1080" alt="Screenshot 671" src="https://github.com/user-attachments/assets/8ad5bbef-20ec-41a8-8c9f-4142bd21838e" />
-<img width="1920" height="1080" alt="Screenshot 672" src="https://github.com/user-attachments/assets/56247952-bc3f-49ee-bc26-87817198e682" />
-<img width="1920" height="1080" alt="Screenshot 673" src="https://github.com/user-attachments/assets/9f6a4e71-6a77-4d09-9bea-4d0f916f0c68" />
-<img width="1920" height="1080" alt="Screenshot 674" src="https://github.com/user-attachments/assets/c0f3385a-6cc2-4e9c-9c23-4ca96b03d195" />
-<img width="1920" height="1080" alt="Screenshot 675" src="https://github.com/user-attachments/assets/09c00d79-0e4b-44f2-afbc-df5e435caf9c" />
-<img width="1920" height="1080" alt="Screenshot 676" src="https://github.com/user-attachments/assets/bb53f369-5a17-4a7c-a728-88eb617643d5" />
-
 🎯 Features
 
 🎤 Real-time AI conversations using Vapi
