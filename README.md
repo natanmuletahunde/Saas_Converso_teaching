@@ -24,7 +24,7 @@
 
 | Tool | Description | Link |
 |------|------------|------|
-| 🔊 **Vapi** | AI-Powered Real-time Conversations | [Get Started](https://jsm.dev/converso-vapi) – Use coupon `JSMASTERY200` for **200 free minutes** |
+| 🔊 **Vapi** | AI-Powered Real-time Conversations | [Get Started](https://jsm.dev/converso-vapi) 
 | 🔐 **Clerk** | Authentication & User Management | [Get Started](https://jsm.dev/converso-clerk) |
 | 🤖 **Junie AI** | AI Agents & Automations | [Get Started](https://jsm.dev/converso-junie) |
 | 💻 **WebStorm** | IDE for Modern Web Development | [Get Started](https://jsm.dev/converso-webstorm) |
