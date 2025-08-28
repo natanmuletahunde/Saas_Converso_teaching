@@ -19,6 +19,7 @@
     "@sentry/nextjs": "^10.5.0",
     "@supabase/supabase-js": "^2.56.0",
     "@vapi-ai/web": "^2.3.9",
+    "axios": "^1.11.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lottie-react": "^2.4.1",
