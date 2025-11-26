@@ -21,9 +21,7 @@ const Page = async () => {
                     color={getSubjectColor(companion.subject)}
                 />
             ))}
-
         </section>
-
         <section className="home-section">
             <CompanionsList
                 title="Recently completed sessions"

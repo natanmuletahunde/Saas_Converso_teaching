@@ -26,7 +26,6 @@ export default function RootLayout({
         <Navbar/>
         {children}
         </ClerkProvider>
-
         </body>
     </html>
   );
